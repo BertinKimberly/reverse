@@ -1,13 +1,21 @@
 {
-  "name": "str-reverse",
+  "name": "string-rev",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is used to reverse any string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertinKimberly/reverse.git"
+  },
   "author": "Bertin",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BertinKimberly/reverse/issues"
+  },
+  "homepage": "https://github.com/BertinKimberly/reverse#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
