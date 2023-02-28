@@ -13,4 +13,4 @@ this is used to reverse any string
   thos is an example
 
 
-  # enjoy using my package and be more productive
+  # enjoy using my package and be more productive.
